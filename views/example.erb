@@ -1,0 +1,8 @@
+
+    <h1>My favorite cat names</h1>
+    <ul>
+      <li>Dr Snuggles</li>
+      <% @cat_names.each do |cat_name| %>
+        <li><a href="http://en.wikipedia.org/wiki/<%= cat_name %>"><%= cat_name %></a></li>
+      <% end %>
+    </ul>
