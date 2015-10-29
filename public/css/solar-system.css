@@ -1,0 +1,81 @@
+/*
+ * CSS rules for Solar System planets
+ */
+
+#solar-system {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+#logo {
+  position: absolute;
+  top: 38%;
+  right: 22%;
+}
+
+#pressbox {
+  position: absolute;
+  top: 22%;
+  right: 65%;
+}
+
+#jam-central {
+  position: absolute;
+  top: 15%;
+  right: 45%;
+}
+
+#planet-bball {
+  position: absolute;
+  top: 10%;
+  right: 25%;
+}
+
+#lunar-tunes {
+  position: absolute;
+  top: 20%;
+  right: 0;
+}
+
+#lineup {
+  position: absolute;
+  top: 45%;
+  right: 85%;
+}
+
+#jump-station {
+  position: absolute;
+  top: 48%;
+  right: 0;
+}
+
+#junior-jam {
+  position: absolute;
+  top: 63%;
+  right: 86.5%;
+}
+
+#warner-store {
+  position: absolute;
+  top: 70%;
+  right: 1%;
+}
+
+#stellar-souvenirs {
+  position: absolute;
+  top: 78%;
+  right: 65%;
+}
+
+#site-map {
+  position: absolute;
+  top: 95%;
+  right: 42%;
+}
+
+#behind-jam {
+  position: absolute;
+  top: 85%;
+  right: 25%;
+}

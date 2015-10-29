@@ -1,0 +1,45 @@
+/*
+ * Space Jam site CSS rules
+ */
+
+/*
+ * Page-wide
+ */
+
+body {
+   background-color: #000000;
+   background-image: url("/img/bg_stars.gif");
+   color: #ff0000;
+}
+
+body a:link {
+  color: #ff4c4c;
+}
+
+body a:visited {
+  color: #ff4c4c;
+}
+
+body a:active {
+  color: #ff4c4c;
+}
+
+/*
+ * Main Content
+ */
+
+#main-content {
+  width: 500px;
+  height: 435px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*
+ * Footer
+ */
+
+footer {
+  text-align: center;
+  font-size: 0.9em;
+}
