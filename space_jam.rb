@@ -10,7 +10,7 @@ class SpaceJam < Sinatra::Base
 
   get "/example" do
     @title = "Example"
-    @cat_names = ["Princess Caroline", "Catmando", "Wilberforce"]
+    @cat_names = ["Sylvester","Princess Caroline", "Catmando", "Wilberforce"]
     erb :example
   end
 
